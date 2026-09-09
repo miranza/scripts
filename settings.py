@@ -264,37 +264,36 @@ EMPRESAS = [
     {
         "company_name": "CLINICA%20DR.%20MONTEIRO",
         "api_name": "Clínica Oftalmológica Prof. Doutor Manuel Monteiro, LDA",
-        "display_name": "Oporto",
+        "display_name": "CLINICA DR. MONTEIRO",
         "sociedad": "Clínica Oftalmológica Prof. Doutor Manuel Monteiro, LDA",
-        "company_id": "",
+        "company_id": "03794791-9c9e-f011-b41a-6045bdde20d6"
     },
     {
         "company_name": "ROIJEN%20NACAR%20OFTALMOLOGIA%2C%20S.L",
-        "api_name": "Roijen Nacar Oftalmología, S.L",
-        "display_name": "Catalunya - Mataro",
-        "sociedad": "Roijen Nacar Oftalmología, S.L",
-        "company_id": "",
+        "api_name": "Roijen Nacar Oftalmología, S.L ",
+        "display_name": "ROIJEN NACAR OFTALMOLOGIA, S.L",
+        "sociedad": "Roijen Nacar Oftalmología, S.L ",
+        "company_id": "43af1950-84b5-f011-bbd1-7c1e5235d486"
     },
     {
         "company_name": "MIRANZA%20PORTUGAL%2C%20LDA",
         "api_name": "Miranza Portugal, LDA",
-        "display_name": "Miranza Portugal",
+        "display_name": "MIRANZA PORTUGAL, LDA",
         "sociedad": "Miranza Portugal, LDA",
-        "company_id": "",
+        "company_id": "91ac4605-19a5-f011-bbd0-7ced8d4957bf"
     },
     {
         "company_name": "INSTITUT%20OFTAMOLOGIC%20DEL%20PRAT",
         "api_name": "Institut Oftalmologic del Prat, S.L",
-        "display_name": "Catalunya - Mataro",
+        "display_name": "INSTITUT OFTAMOLOGIC DEL PRAT",
         "sociedad": "Institut Oftalmologic del Prat, S.L",
-        "company_id": "",
+        "company_id": "471002a2-84b5-f011-bbd1-7c1e5235d486"
     },
     {
         "company_name": "OFTALMOCENTER",
         "api_name": "OFTALMOCENTER - CLINICA MEDICA, LDA",
-        "display_name": "Porto – Oftalmocenter",
-        # "display_name": "Porto - Oftalmocenter",
+        "display_name": "OFTALMOCENTER",
         "sociedad": "OFTALMOCENTER - CLINICA MEDICA, LDA",
-        "company_id": "",
+        "company_id": "0a42708c-87f0-f011-8405-7ced8d77d6a6"
     },
 ]
