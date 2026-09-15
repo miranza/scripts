@@ -296,4 +296,11 @@ EMPRESAS = [
         "sociedad": "OFTALMOCENTER - CLINICA MEDICA, LDA",
         "company_id": "0a42708c-87f0-f011-8405-7ced8d77d6a6"
     },
+    {
+        "company_name": "CLINICA%20OFTALMOL%C3%93GICA%20PRIVADA",
+        "api_name": "CLINICA PRIVADA OFTALMOLÓGICA",
+        "display_name": "CLINICA OFTALMOLÓGICA PRIVADA",
+        "sociedad": "CLINICA PRIVADA OFTALMOLÓGICA",
+        "company_id": "e525a312-1790-f111-8074-7c1e5276275c"
+    },
 ]
